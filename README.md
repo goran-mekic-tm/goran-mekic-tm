@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @goran-mekic-tm
+- 👀 I’m interested in ... py/js
+- 🌱 I’m currently learning ... typescript
+- 📫 How to reach me ... [meka.rs](https://meka.rs)
